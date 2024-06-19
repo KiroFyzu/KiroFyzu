@@ -25,6 +25,11 @@
 </a>
 </p>
 
+### 💤 &nbsp;Github Statistics 
+<img src="https://github-profile-trophy.vercel.app/?username=KiroFyzu&theme=onedark" />
+<img src="https://github.com/KiroFyzu/github-stats/blob/master/generated/overview.svg" />
+<img src="https://github.com/KiroFyzu/github-stats/blob/master/generated/languages.svg" />
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
@@ -33,5 +38,6 @@
 <a href="https://instagram.com/callme_kiro"><img src="https://img.shields.io/badge/-@callme_kiro_-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <img src="https://komarev.com/ghpvc/?username=KiroFyzu&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat" alt="kirofyzu"/> 
 </p>
+
 
 -----
