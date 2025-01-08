@@ -37,5 +37,17 @@
 <img src="https://komarev.com/ghpvc/?username=KiroFyzu&abbreviated=true&label=Profile%20views&color=0e75b6&style=flat" alt="kirofyzu"/> 
 </p>
 
+<details>
+  <br />
+  <summary><b>⚙️ Things I use to get stuff done</b></summary>
+  	<ul>
+  	    <li><b>OS:</b> Windows / Linux (Dual Boot)</li>
+	    <li><b>Laptop: </b> Asus A416M (Intel Celeron N4020)</li>
+  	    <li><b>Browser: </b> Edge & Firefox</li>
+	    <li><b>Terminal: </b> Git Bash</li>
+	    <li><b>Code Editor:</b> VSCode - The best editor out there</li>
+ 	    <li><b>Other Tools:</b> Postman, Notion and Bitwarden</li>
+	</ul>
+</details>
 
 -----
